@@ -3,6 +3,7 @@
 ###
 
 <p align="left">My name is Gus and I'm a croissant from 🇧🇷</p>
+<p align="left">I use Arch BTW</p>
 
 ###
 
