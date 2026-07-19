@@ -14,7 +14,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JS"  />
   <img width="12" />
-  <img src="https://github.com/rust-lang/rust-artwork/blob/master/logo/rust-logo-white-outline.svg" height="40" alt="Rust (Language)" >
+  <img src="https://github.com/rust-lang/rust-artwork/blob/main/mascot/ferris-flat-noshadow.svg" height="40" alt="Rust (Language)" >
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"  />
   <img width="12" />
